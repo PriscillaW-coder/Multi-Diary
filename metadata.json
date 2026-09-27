@@ -1,0 +1,6 @@
+{
+  "name": "Multi Diary",
+  "description": "A modern, responsive, AI-powered personal digital diary, mood tracker, memory timeline, and reflection companion.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

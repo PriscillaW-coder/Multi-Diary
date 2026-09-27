@@ -1,0 +1,306 @@
+{
+  "users": [
+    {
+      "id": "user-priscilla-demo",
+      "name": "Priscilla",
+      "email": "priscillawinniezharengi@gmail.com",
+      "passwordHash": "90a378c09a91c07101ab2f8756638b3f9211211590f11c4ffedf53ce53310d56f15157f501a4be29e0c1cb3ffbf17cb9f6d1631dab29204f2936ad902105d248",
+      "salt": "a87be259250f1be06fb9798adbe67bea",
+      "createdAt": "2025-01-01T00:00:00.00Z",
+      "privacySettings": {
+        "aiDiaryAnalysis": true,
+        "emotionDetection": true,
+        "personalizedInsights": true,
+        "aiReflections": true,
+        "voiceTranscriptAnalysis": true,
+        "includeMediaInAiAnalysis": false,
+        "allowLocationTagging": true,
+        "biometricLockMock": false
+      },
+      "themePreference": "light"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "7659f23d6feac8b8f70ae6e9c75c9cba7bbd9ab81ee0855ff0982950cfdc03dd",
+      "userId": "user-priscilla-demo",
+      "createdAt": "2026-09-27T13:41:54.413Z"
+    },
+    {
+      "token": "8dc8b298aa0f6ff69d4b5dd4eb29087bd4373ab6fb5be748645ef83ae32a58e1",
+      "userId": "user-priscilla-demo",
+      "createdAt": "2026-09-27T13:41:58.725Z"
+    },
+    {
+      "token": "376a71d874a7fff479dc9b96d2bd8befe81144ed7d9312f2494f566ee8becff7",
+      "userId": "user-priscilla-demo",
+      "createdAt": "2026-09-27T13:42:08.053Z"
+    },
+    {
+      "token": "f7cfbdaf12ea84f135b671b0a8be99087d26e1f15058592aa2c97ff571adee6a",
+      "userId": "user-priscilla-demo",
+      "createdAt": "2026-09-27T13:42:23.764Z"
+    },
+    {
+      "token": "f9199ab3c6546e8b364b875d09f03675d00ac1c581d69818ee7d5de4d26643e5",
+      "userId": "user-priscilla-demo",
+      "createdAt": "2026-09-27T13:43:03.364Z"
+    }
+  ],
+  "entries": [
+    {
+      "id": "entry-seed-1",
+      "userId": "user-priscilla-demo",
+      "title": "Starting a new chapter in my life",
+      "content": "<h1>Starting Fresh</h1><p>Today marks the beginning of something really special. I spent the morning sitting by the garden, sipping my favorite chamomile tea, and setting my intentions for the future. The morning light felt golden and calm.</p><p>It is scary to let go of old routines, but there is so much peace in trusting where life is taking me.</p>",
+      "plainTextContent": "Today marks the beginning of something really special. I spent the morning sitting by the garden, sipping my favorite chamomile tea, and setting my intentions for the future. The morning light felt golden and calm. It is scary to let go of old routines, but there is so much peace in trusting where life is taking me.",
+      "date": "2025-09-27",
+      "time": "09:30",
+      "rating": 5,
+      "mood": "Grateful",
+      "emotions": [
+        "Grateful",
+        "Calm",
+        "Loved"
+      ],
+      "tags": [
+        "life",
+        "new-beginnings",
+        "peace"
+      ],
+      "location": {
+        "name": "Botanical Garden & Veranda"
+      },
+      "photos": [
+        {
+          "id": "photo-1",
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1000&q=80",
+          "caption": "Golden morning light by the veranda",
+          "uploadedAt": "2025-09-27T09:45:00.000Z"
+        }
+      ],
+      "musicAttachment": {
+        "id": "music-1",
+        "title": "Weightless & Gentle",
+        "artist": "Ambient Mornings",
+        "url": "https://actions.google.com/sounds/v1/water/gentle_rain_loop.ogg"
+      },
+      "aiReflection": {
+        "text": "Looking back at this moment, you embraced uncertainty with warmth and self-trust. Taking time for quiet contemplation before big shifts often provides the grounding you need.",
+        "generatedAt": "2025-09-27T10:00:00.000Z"
+      },
+      "aiEmotions": [
+        {
+          "emotion": "Gratitude",
+          "percentage": 70
+        },
+        {
+          "emotion": "Peace",
+          "percentage": 20
+        },
+        {
+          "emotion": "Excitement",
+          "percentage": 10
+        }
+      ],
+      "aiSentiment": {
+        "sentiment": "Positive",
+        "explanation": "Deeply reflective and hopeful tone embracing life transitions with calmness."
+      },
+      "createdAt": "2025-09-27T09:30:00.000Z",
+      "updatedAt": "2025-09-27T09:30:00.000Z"
+    },
+    {
+      "id": "entry-seed-2",
+      "userId": "user-priscilla-demo",
+      "title": "Started a new project & creative momentum",
+      "content": "<h1>Creative Flow</h1><p>Finally sat down to architect the new design. Everything clicked together naturally after hours of sketching. Team discussions were encouraging, and I feel energized about the roadmap ahead.</p>",
+      "plainTextContent": "Finally sat down to architect the new design. Everything clicked together naturally after hours of sketching. Team discussions were encouraging, and I feel energized about the roadmap ahead.",
+      "date": "2026-09-25",
+      "time": "16:45",
+      "rating": 4,
+      "mood": "Excited",
+      "emotions": [
+        "Excited",
+        "Motivated"
+      ],
+      "tags": [
+        "work",
+        "creative",
+        "projects"
+      ],
+      "location": {
+        "name": "Design Studio"
+      },
+      "photos": [
+        {
+          "id": "photo-2",
+          "url": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1000&q=80",
+          "caption": "Workspace brainstorm sketches",
+          "uploadedAt": "2026-09-25T16:50:00.000Z"
+        }
+      ],
+      "aiReflection": {
+        "text": "Your creative energy flourished today when ideas transitioned from thoughts to concrete steps. Acknowledging collaborative wins strengthens your momentum.",
+        "generatedAt": "2026-09-25T17:00:00.000Z"
+      },
+      "aiEmotions": [
+        {
+          "emotion": "Excitement",
+          "percentage": 65
+        },
+        {
+          "emotion": "Motivation",
+          "percentage": 35
+        }
+      ],
+      "aiSentiment": {
+        "sentiment": "Positive",
+        "explanation": "Inspiring and constructive day marked by creative achievement."
+      },
+      "createdAt": "2026-09-25T16:45:00.000Z",
+      "updatedAt": "2026-09-25T16:45:00.000Z"
+    },
+    {
+      "id": "entry-seed-3",
+      "userId": "user-priscilla-demo",
+      "title": "Quiet Sunday walk & voice reflections",
+      "content": "<h1>Breathe in Autumn</h1><p>A misty morning walk along the park path. Crisp air, leaves turning golden red, and no rush to be anywhere. Recorded a quick voice note about being kind to myself when energy runs low.</p>",
+      "plainTextContent": "A misty morning walk along the park path. Crisp air, leaves turning golden red, and no rush to be anywhere. Recorded a quick voice note about being kind to myself when energy runs low.",
+      "date": "2026-09-20",
+      "time": "11:15",
+      "rating": 3,
+      "mood": "Calm",
+      "emotions": [
+        "Calm",
+        "Tired"
+      ],
+      "tags": [
+        "nature",
+        "walk",
+        "voice-diary"
+      ],
+      "location": {
+        "name": "River Path Trail"
+      },
+      "photos": [],
+      "voiceRecording": {
+        "id": "voice-1",
+        "url": "https://actions.google.com/sounds/v1/weather/wind_breeze.ogg",
+        "duration": 32,
+        "transcript": "Just walking under the trees... feeling a bit tired from the week, but grateful for this calm pause.",
+        "createdAt": "2026-09-20T11:20:00.000Z"
+      },
+      "aiReflection": {
+        "text": "You recognized fatigue without judgment and chose rest in nature. Allowing yourself space to breathe is an essential part of sustaining long-term well-being.",
+        "generatedAt": "2026-09-20T11:30:00.000Z"
+      },
+      "aiEmotions": [
+        {
+          "emotion": "Calmness",
+          "percentage": 60
+        },
+        {
+          "emotion": "Tiredness",
+          "percentage": 40
+        }
+      ],
+      "aiSentiment": {
+        "sentiment": "Neutral",
+        "explanation": "Restorative and gentle reflection balancing tiredness with peaceful scenery."
+      },
+      "createdAt": "2026-09-20T11:15:00.000Z",
+      "updatedAt": "2026-09-20T11:15:00.000Z"
+    },
+    {
+      "id": "entry-seed-4",
+      "userId": "user-priscilla-demo",
+      "title": "Birthday dinner & warm laughter",
+      "content": "<h1>Heart Full</h1><p>Gathered with close friends for dinner. We laughed until our sides hurt talking about memories from university. Truly thankful for the people who make life feel so light.</p>",
+      "plainTextContent": "Gathered with close friends for dinner. We laughed until our sides hurt talking about memories from university. Truly thankful for the people who make life feel so light.",
+      "date": "2026-09-10",
+      "time": "20:30",
+      "rating": 5,
+      "mood": "Loved",
+      "emotions": [
+        "Loved",
+        "Happy",
+        "Grateful"
+      ],
+      "tags": [
+        "celebration",
+        "friends",
+        "gratitude"
+      ],
+      "location": {
+        "name": "Linden Bistro"
+      },
+      "photos": [
+        {
+          "id": "photo-3",
+          "url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1000&q=80",
+          "caption": "Warm dinner gathering with dear friends",
+          "uploadedAt": "2026-09-10T21:00:00.000Z"
+        }
+      ],
+      "aiReflection": {
+        "text": "Deep social connections consistently elevate your joy. Savoring these shared memories reinforces a sense of belonging and affection.",
+        "generatedAt": "2026-09-10T21:15:00.000Z"
+      },
+      "aiEmotions": [
+        {
+          "emotion": "Love",
+          "percentage": 55
+        },
+        {
+          "emotion": "Happiness",
+          "percentage": 35
+        },
+        {
+          "emotion": "Gratitude",
+          "percentage": 10
+        }
+      ],
+      "aiSentiment": {
+        "sentiment": "Positive",
+        "explanation": "Exceptionally warm and joyful celebration surrounded by loved ones."
+      },
+      "createdAt": "2026-09-10T20:30:00.000Z",
+      "updatedAt": "2026-09-10T20:30:00.000Z"
+    }
+  ],
+  "reminders": [
+    {
+      "id": "reminder-1",
+      "userId": "user-priscilla-demo",
+      "reminderTime": "21:00",
+      "frequency": "daily",
+      "message": "Take a mindful breath and jot down one bright moment from today 🌸",
+      "enabled": true,
+      "createdAt": "2026-09-27T13:41:51.531Z"
+    }
+  ],
+  "insights": [
+    {
+      "id": "insight-1",
+      "userId": "user-priscilla-demo",
+      "text": "You seem to record your highest daily ratings (4-5 ⭐) on days when you spend time outdoors or share meals with friends.",
+      "category": "pattern",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "insight-2",
+      "userId": "user-priscilla-demo",
+      "text": "Writing down feelings of tiredness before bed has helped you transition into more calm, grounded mornings.",
+      "category": "growth",
+      "date": "2026-09-22"
+    },
+    {
+      "id": "insight-3",
+      "userId": "user-priscilla-demo",
+      "text": "You have maintained consistent diary entries throughout September with an average mood rating of 4.25 ⭐.",
+      "category": "milestone",
+      "date": "2026-09-25"
+    }
+  ]
+}
